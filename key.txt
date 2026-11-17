@@ -1,12 +1,3 @@
-#    ADMIN     #
-
 #     v0.5    #  
 AJ-KEY-47AD371B
 AJ-KEY-AA5BFA04
-
-#----------------------#
-
-
-#   ZIHAD VAI  #
-AJ-KEY-FAE9CD5C
-AJ-KEY-5B5F95A4
